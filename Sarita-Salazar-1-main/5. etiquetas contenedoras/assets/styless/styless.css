@@ -1,0 +1,39 @@
+#container{
+    width: 6000px;
+    height: auto;
+}
+img{
+    width: 350px;
+    height: 350px;
+    border: 2px dotted blueviolet;
+    image-rendering: pixelated;
+    align-items: center;
+    margin-left: 500px;
+
+}
+code{
+    text-align: center;
+    margin: 30px;
+}
+ul{
+    text-align: center;
+    margin: 30px;
+}
+h1{
+    text-align: center;
+    margin: 30px;
+}
+
+h2{
+    text-align: center;
+    margin: 30px;
+
+}
+ h3{
+text-align: center;
+margin: 30px;
+
+ }
+body{
+    background-color:  #C1F0E3 ;
+}
